@@ -2,3 +2,6 @@ POO I
 POO I
 Base de Datos 
 Aplicaciones web
+Matematicas
+Calculo 
+sistemas operativos
